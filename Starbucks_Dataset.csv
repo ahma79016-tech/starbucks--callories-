@@ -1,0 +1,13 @@
+Product_ID,Beverage_Name,Category,Size,Calories,Total_Fat_g,Sugar_g,Caffeine_mg,Protein_g,Price_USD
+101,Caffè Latte,Espresso Beverages,Grande,190,7.0,18,150,13.0,4.95
+102,Iced Caramel Macchiato,Espresso Beverages,Grande,250,7.0,34,150,10.0,5.45
+103,Pumpkin Spice Latte,Seasonal,Grande,390,14.0,50,150,14.0,5.95
+104,Cappuccino,Espresso Beverages,Grande,140,5.0,10,150,9.0,4.75
+105,Americano,Espresso Beverages,Grande,15,0.0,0,225,1.0,3.65
+106,Java Chip Frappuccino,Frappuccino,Grande,440,12.0,60,110,6.0,5.75
+107,Cold Brew Coffee,Cold Brew,Grande,5,0.0,0,205,0.0,4.45
+108,Matcha Tea Latte,Tea,Grande,240,7.0,32,80,12.0,5.25
+109,Chai Tea Latte,Tea,Grande,240,4.5,42,95,8.0,4.95
+110,Flat White,Espresso Beverages,Grande,220,11.0,13,195,12.0,5.15
+111,Pink Drink,Refreshers,Grande,140,2.5,24,45,1.0,4.95
+112,Espresso,Espresso,Doppio,10,0.0,0,150,1.0,2.95
